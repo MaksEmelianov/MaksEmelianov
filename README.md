@@ -45,14 +45,21 @@ PostgreSQL, JDBC, GC, Reference, TDD, SOLID)
   📫  How to reach me: <a href='mailto:mr.maksimemelyanov@ya.ru'>mr.maksimemelyanov@ya.ru</a>
 </p>
 
-<p align='center'>
-    <a href="https://github-readme-stats.vercel.app/api?username=MaksEmelianov&show_icons=true&count_private=true">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=MaksEmelianov&show_icons=true&count_private=true"/></a>
-    <a href="https://github.com/MaksEmelianov/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksEmelianov&layout=compact"/></a>
-    <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaksEmelianov&theme=vue">
-       <img height=150 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaksEmelianov&theme=vue"/></a>
-</p>
+[//]: # (<p align='center'>)
+
+[//]: # (    <a href="https://github-readme-stats.vercel.app/api?username=MaksEmelianov&show_icons=true&count_private=true">)
+
+[//]: # (       <img height=150 src="https://github-readme-stats.vercel.app/api?username=MaksEmelianov&show_icons=true&count_private=true"/></a>)
+
+[//]: # (    <a href="https://github.com/MaksEmelianov/github-readme-stats">)
+
+[//]: # (       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksEmelianov&layout=compact"/></a>)
+
+[//]: # (    <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaksEmelianov&theme=vue">)
+
+[//]: # (       <img height=150 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaksEmelianov&theme=vue"/></a>)
+
+[//]: # (</p>)
 
 [//]: # (<div align="center" style="margin: 40px 0">)
 
