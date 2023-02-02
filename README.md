@@ -1,38 +1,59 @@
-# Hi there 👋 My name is Maksim Emelianov. I'm a Java developer.
+# Welcome 👋 My name is Maksim and I'm a Java developer.
+I've been learning Java programming for the last year.
+Before studying, worked for a long time as an affiliate marketer. 
+I'm migrating to industrial development in Java.
+Learned basic technology stack and implemented several projects.
+Looking for a job, if you have one to offer, 
+please contact me on the contacts below marked "GitHub".
 
-For the last year I've been studying and programming in Java. 
-During this time to learn the basics of Java and popular technologies: 
-Spring, Hibernate, RabbitMQ, SQL, Maven, Gradle, Docker. 
-Implemented several training projects.
-
-## 🛠 Technical Stack
-* Java Core, Stream / IO / Reflection API, Memory 
-* Spring Framework, Spring Boot
-* Junit 4/5, Assertj, Mockito
-* TDD, SOLID
+## 🛠 Technical Stack LITE
+* Java Core, Stream API, MultiThreading
+* Spring Framework: MVC, Boot, Cloud, Data, AOP 
+* Junit 4/5, Assertj, Mockito 
+* TDD, SOLID   
 * PostgreSQL, H2, Flyway, Liquibase
 
 ## List project's on Java:
+ * Mini Bank System  
+(https://github.com/MaksEmelianov/spring-cloud-microservices)  
+Приложение реализует минимальное банковское приложение через микросервисную архитектуру.  
+Функциональность:    
+Создание пользовательских аккаунтов    
+Создание пользовательских счетов    
+Возможность пополнения счетов    
+Microservice Architecture with Spring Boot, Spring Cloud, Docker, PostgreSQL, RabbitMQ.      
+Netflix: Ribbon, Hystrix, Feign
+
  * Dream Job   
-(https://github.com/MaksEmelianov/job4j_dreamjob)   
-Приложение по поиску работы     
+(https://github.com/MaksEmelianov/job4j_dreamjob)  
+Аналог сервиса поиска работы     
+Функциональность:    
+Добавление резюме    
+Добавление вакансий     
+Просмотр сущностей      
 (Spring Boot, Thymeleaf, Bootstrap, Junit5, Assertj, Liquibase, PostgreSQL, H2,
 Servlets, JSP, JSTL, Mockito, PowerMock)
 
- * Grabber Vacancy     
-(https://github.com/MaksEmelianov/job4j_grabber)        
-Парсер и агрегатор вакансий     
+ * Grabber Vacancy   
+(https://github.com/MaksEmelianov/job4j_grabber)   
+Парсер и агрегатор вакансий   
+Функциональность:    
+Парсинг вакансий с сайта   
+Загрузка вакансий в БД  
+Просмотр вакансий в приложении   
 (PostgreSQL, Liquibase, Quartz, Jsoup)
 
- * Design Java     
-(https://github.com/MaksEmelianov/job4j_design)     
+ * Design Java 
+(https://github.com/MaksEmelianov/job4j_design) 
+Практика написания кода на Java  
 (Java SE, Data Structures and Algorithms, Input/Output system,
 PostgreSQL, JDBC, GC, Reference, TDD, SOLID)
 
- * Tracker manager     
-(https://github.com/MaksEmelianov/job4j_tracker)        
-Менеджер заявок     
+ * Tracker manager   
+(https://github.com/MaksEmelianov/job4j_tracker)   
+Менеджер заявок   
 (Java SE, PostgreSQL, JDBC, Liquibase, JUnit4)
+
 
 <p align='center'>
    <a href="https://t.me/ifoxe" target="_blank">
