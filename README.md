@@ -14,6 +14,16 @@ please contact me on the contacts below marked "GitHub".
 * PostgreSQL, H2, Flyway, Liquibase
 
 ## List project's on Java:
+ * Интернет - магазин E-store (в разработке)    
+ (https://github.com/MaksEmelianov/spring-cloud-microservices)    
+ Приложение простого интернет магазина    
+ Функциональность:      
+ Регистрация и авторизация пользователей     
+ Добавление, редактирование и просмотр товаров         
+ Покупка товаров (оплата через PayPal)    
+ Подключено уведомленеи по почте    
+ Spring Boot, PostgreSQL, FlyWay, Spring Data, Spring Security, Thymeleaf, Lombok, JsonPath     
+
  * Mini Bank System  
 (https://github.com/MaksEmelianov/spring-cloud-microservices)  
 Приложение реализует минимальное банковское приложение через микросервисную архитектуру.  
