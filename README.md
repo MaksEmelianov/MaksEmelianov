@@ -7,15 +7,21 @@ Looking for a job, if you have one to offer,
 please contact me on the contacts below marked "GitHub".
 
 ## 🛠 Technical Stack LITE
-* Java Core, Stream API, MultiThreading
-* Spring Framework: MVC, Boot, Cloud, Data, AOP 
-* Junit 4/5, Assertj, Mockito 
-* TDD, SOLID   
+* Java SE, EE
+* Spring Framework: Boot, Cloud, Data, AOP 
+* Junit, Assertj, Mockito 
 * PostgreSQL, H2, Flyway, Liquibase
 
 ## List project's on Java:
+ * Telegram bot - файловое хранилище  
+ (https://github.com/MaksEmelianov/DataSwapShopBot)  
+ Функциональность:  
+ Подтвеждение пользователей по почте  
+ Загрузка/Скачивание файлов и фото в/из БД через API Telegram  
+ Microservices, Spring Platform, PostgreSQL, RabbitMQ, Lombok  
+ 
  * Интернет - магазин E-store (в разработке)    
- (https://github.com/MaksEmelianov/spring-cloud-microservices)    
+ (https://github.com/MaksEmelianov/estore)    
  Приложение простого интернет магазина    
  Функциональность:      
  Регистрация и авторизация пользователей     
